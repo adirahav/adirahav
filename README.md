@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adi Rahav</h1>
 <h3 align="center">A Full Stack and Android developer</h3>
 
-- 🔭 I’m currently working on [Instaglam](https://instaglam-lx6p.onrender.com/)
+- 🔭 I’m currently working on [Instaglam](https://instaglam-lx6p.onrender.com/) and [Dira Leashkaa](https://play.google.com/store/apps/details?id=com.adirahav.diraleashkaa)
 
 - 🌱 I am currently looking for a new job in **React and NodeJS**
-
-- 🔭 I’m currently working on [Dira Leashkaa](https://play.google.com/store/apps/details?id=com.adirahav.diraleashkaa)
 
 - 📫 How to reach me **adirahavs@gmail.com**
 
